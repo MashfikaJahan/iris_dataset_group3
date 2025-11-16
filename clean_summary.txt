@@ -1,0 +1,18 @@
+Row count: 147
+
+Column: Sepal_Length
+  Min: 4.30
+  Max: 7.90
+  Mean: 5.86
+Column: Sepal_Width
+  Min: 2.00
+  Max: 4.40
+  Mean: 3.06
+Column: Petal_Length
+  Min: 1.00
+  Max: 6.90
+  Mean: 3.78
+Column: Petal_width
+  Min: 0.10
+  Max: 2.50
+  Mean: 1.21
