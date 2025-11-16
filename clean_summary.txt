@@ -12,7 +12,7 @@ Column: Petal_Length
   Min: 1.00
   Max: 6.90
   Mean: 3.78
-Column: Petal_width
+Column: Petal_Width
   Min: 0.10
   Max: 2.50
   Mean: 1.21
