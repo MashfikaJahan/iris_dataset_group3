@@ -53,10 +53,10 @@ The dataset is available in `iris.data` and has been cleaned and summarized in t
 - Computed summary statistics (mean, median, min, max)
 - Grouped data by species and computed averages
 - Visualized data with:
-  - **Histogram** of petal lengths
+  - **Histogram** of petal lengths, and petal lengths grouped by species
   - **Bar chart** of average sepal length per species
   - **Boxplot** of petal lengths by species
-  - **Scatter plot** of sepal length vs sepal width
+  - **Scatter plot** of sepal length vs sepal width, and of petal length vs petal width
  
 ---
 
@@ -76,6 +76,9 @@ The dataset is available in `iris.data` and has been cleaned and summarized in t
 
 ### Scatter Plot: Sepal Length vs Sepal Width
 ![Scatter Plot](Sepal_Length_VS_Width_Scatterplot.png)
+
+### Scatter Plot: Petal Length vs Petal Width
+![Scatter Plot](Petal_Length_VS_Width_Scatterplot.png).
 
 ## Files in this Repository
 
@@ -103,7 +106,7 @@ The dataset is available in `iris.data` and has been cleaned and summarized in t
 - `Average_Sepal_length_Barchart.png` - Barchart of average sepal length per species
 - `Petal_Length_Per_Species_Histogram.png` - Histogram of petal length per species
 - `Petal_Histogram.png` - Histogram of petal length for all species
-
+-`Petal_Length_VS_Width_Scatterplot.png` - Scatterplot graph of Petal length vs width per species
 
 ---
 
